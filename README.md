@@ -4,6 +4,12 @@
 - 💬  Ask me about **JavaScript, CSS and React.js.**
 - 📫  How to reach me **fehmituran@gmail.com**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fehmi-turan-80437337" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="fehmituran" height="30" width="30" /></a>
+</p>
+
 <!--
 **fehmituran/fehmituran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
