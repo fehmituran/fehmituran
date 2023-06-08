@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Fehmi 🚀
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ivan+Tymoshchuk;Over+1+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+### Hi there 👋,
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Fehmi+Turan;Over+1+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
 - 💬  Ask me about **JavaScript, CSS and React.js.**
