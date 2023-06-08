@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<a href="https://twitter.com/emrecengiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrecengiz_" height="30" width="40" /></a>
 -->
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmituran&layout=compact)](https://github.com/fehmituran/github-readme-stats)
