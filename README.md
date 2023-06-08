@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Fehmi 🚀
 
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
+- 💬  Ask me about **JavaScript, CSS and React.js.**
+- 📫  How to reach me **fehmituran@gmail.com**
 
 <!--
 **fehmituran/fehmituran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
